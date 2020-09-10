@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\daonguocphantu\bin\Debug\netcoreapp3.1\daonguocphantu.exe
+C:\Users\Administrator\source\repos\daonguocphantu\bin\Debug\netcoreapp3.1\daonguocphantu.deps.json
+C:\Users\Administrator\source\repos\daonguocphantu\bin\Debug\netcoreapp3.1\daonguocphantu.runtimeconfig.json
+C:\Users\Administrator\source\repos\daonguocphantu\bin\Debug\netcoreapp3.1\daonguocphantu.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\daonguocphantu\bin\Debug\netcoreapp3.1\daonguocphantu.dll
+C:\Users\Administrator\source\repos\daonguocphantu\bin\Debug\netcoreapp3.1\daonguocphantu.pdb
+C:\Users\Administrator\source\repos\daonguocphantu\obj\Debug\netcoreapp3.1\daonguocphantu.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\daonguocphantu\obj\Debug\netcoreapp3.1\daonguocphantu.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\daonguocphantu\obj\Debug\netcoreapp3.1\daonguocphantu.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\daonguocphantu\obj\Debug\netcoreapp3.1\daonguocphantu.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\daonguocphantu\obj\Debug\netcoreapp3.1\daonguocphantu.dll
+C:\Users\Administrator\source\repos\daonguocphantu\obj\Debug\netcoreapp3.1\daonguocphantu.pdb
+C:\Users\Administrator\source\repos\daonguocphantu\obj\Debug\netcoreapp3.1\daonguocphantu.genruntimeconfig.cache
